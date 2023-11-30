@@ -26,7 +26,7 @@
     "deploy": "gh-pages -d build"
 
   },
-  "homepage" : "http://{github-user-name}.github.io/{github-repository-name}",
+  "homepage" : "https://roshan0010.github.io/shopping-cart",
   "eslintConfig": {
     "extends": [
       "react-app",
